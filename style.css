@@ -1,0 +1,32 @@
+body
+{
+    background-color: green;
+    color: chartreuse;
+    font-size: 30px;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+#camera 
+{
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+}
+
+
+h3
+{
+    font-size: 40px;
+    color: chartreuse;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+  color: chartreuse;
+}
+
+
+
